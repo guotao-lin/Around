@@ -22,7 +22,7 @@ const (
 	PROJECT_ID = "elaborate-chess-185822"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.196.9.191:9200"
+	ES_URL = "http://35.185.4.77:9200"
 )
 
 type Location struct {
